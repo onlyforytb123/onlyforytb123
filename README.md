@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **damleatharv02@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1gmacMUnq2FvrJGmr2sjRlcczWhu2cCoJ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1bMyxQMHnp5A1C9OJkpd9Vlmi0xKsZLrG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
