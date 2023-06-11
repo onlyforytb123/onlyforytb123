@@ -53,4 +53,4 @@
 <p align="center">...</p>
 
 
-<p align="center"><img align="center" alt="Coding" width="260" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="260" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/homercat.png"></p>
