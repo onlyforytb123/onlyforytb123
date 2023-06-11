@@ -43,7 +43,7 @@
 
 
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
 
 <br>
