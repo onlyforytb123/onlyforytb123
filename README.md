@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **damleatharv02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gmacMUnq2FvrJGmr2sjRlcczWhu2cCoJ/view?usp=sharing](https://drive.google.com/file/d/1gmacMUnq2FvrJGmr2sjRlcczWhu2cCoJ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1gmacMUnq2FvrJGmr2sjRlcczWhu2cCoJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
