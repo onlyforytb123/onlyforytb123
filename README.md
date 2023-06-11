@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif)]()
+[![MasterHead]()]()
 <h1 align="center">Hi 👋, I'm Atharva Damle</h1>
 <h3 align="center">A Passionate ML& Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
@@ -43,3 +43,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif">
