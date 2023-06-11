@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate ML& Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
-- 🔭 I’m currently working on **An Online Job Portal**
+- 🔭 I’m currently working on **An E-Commerce Platform**
 
 - 🌱 I’m currently learning **React, React Native**
 
@@ -45,6 +45,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
+
 <p align="center">...</p>
+<p align="center">...</p>
+<p align="center">...</p>
+
 
 <p align="center"><img align="center" alt="Coding" width="260" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif"></p>
