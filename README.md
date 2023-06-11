@@ -43,8 +43,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
 
 
 <p><img align="center" alt="Coding" width="250" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif"></p>
