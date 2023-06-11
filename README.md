@@ -43,8 +43,8 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv002&show_icons=true&locale=en&layout=compact" alt="atharv002" /></p>
 
 <br>
 
