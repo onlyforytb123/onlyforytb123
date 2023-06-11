@@ -45,4 +45,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv002&" alt="atharv002" /></p>
 <br>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="250" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif"></p>
