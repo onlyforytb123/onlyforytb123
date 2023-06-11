@@ -1,4 +1,4 @@
-[![MasterHead]()]()
+[![MasterHead]]
 <h1 align="center">Hi 👋, I'm Atharva Damle</h1>
 <h3 align="center">A Passionate ML& Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
